@@ -1,6 +1,6 @@
 # Introduction
 
-📊 Step into the data analytics job market! This project zeroes in on data analyst roles to uncover 💰 the highest-paying positions, 🔥 the most sought-after skills, and 📈 where strong demand overlaps with strong salaries in data analytics.
+Step into the data analytics job market. This project zeroes in on data analyst roles to uncover the highest-paying positions, the most sought-after skills, and where strong demand overlaps with strong salaries in data analytics.
 
 # Background
 
