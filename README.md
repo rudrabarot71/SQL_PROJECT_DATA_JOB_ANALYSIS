@@ -55,7 +55,7 @@ To determine which skills are associated with high salaries, I joined job postin
 
 - The distribution reinforces that top-paying analyst roles require a broad, modern data toolkit, not just one core skill.
 
-- #### **Key takeaway** : It is clear that core querying + programming + visualization skills dominate, while cloud and collaboration tools act as strong differentiators at higher salary levels.
+- It is clear that core querying + programming + visualization skills dominate, while cloud and collaboration tools act as strong differentiators at higher salary levels.
 
 ### 3. Most In-Demand Skills for Data Analysts
 
