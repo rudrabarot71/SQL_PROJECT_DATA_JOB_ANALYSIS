@@ -121,7 +121,7 @@ This project significantly strengthened my SQL and analytical skill set:
 
 - **Analytical thinking** : Improved my ability to translate real-world questions into structured SQL analysis.
 
-## Key Insights
+# Key Insights
 
 - Data analyst salaries in 2023 show a wide upside, with top-paying roles reaching up to $650,000, driven by seniority and specialization.
 
