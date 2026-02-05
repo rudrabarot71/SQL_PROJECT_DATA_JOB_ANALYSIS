@@ -101,7 +101,7 @@ By combining demand and salary metrics, this analysis identifies skills that pro
 
 - **Database technologies**: Continued demand for both traditional and NoSQL databases including Oracle, SQL Server, and NoSQL systems with average salaries ranging from $97,786 to $104,534 reflects the ongoing need for strong data storage, retrieval, and management capabilities.
 
-## **Key Takeaways** 
+ **Key Takeaways :** 
 
 - **Programming languages**: Python and R show high demand but moderate salaries, indicating widespread adoption.
 
