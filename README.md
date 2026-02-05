@@ -101,16 +101,6 @@ By combining demand and salary metrics, this analysis identifies skills that pro
 
 - **Database technologies**: Continued demand for both traditional and NoSQL databases including Oracle, SQL Server, and NoSQL systems with average salaries ranging from $97,786 to $104,534 reflects the ongoing need for strong data storage, retrieval, and management capabilities.
 
- **Key Takeaways :** 
-
-- **Programming languages**: Python and R show high demand but moderate salaries, indicating widespread adoption.
-
-- **Cloud technologies**: Snowflake, Azure, AWS, and BigQuery combine solid demand with strong pay.
-
-- **BI tools**: Tableau and Looker remain essential for turning data into insights.
-
-- **Databases**: Both traditional and NoSQL databases continue to be highly relevant.
-
 ## What I Learned
 
 This project significantly strengthened my SQL and analytical skill set:
